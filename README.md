@@ -1,0 +1,3 @@
+# estudos-python
+
+Um repo apenas para testar algumas coisas de Python, Pandas e afins...
